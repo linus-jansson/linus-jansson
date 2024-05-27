@@ -5,7 +5,7 @@ A software developer **based** in Sweden 🇸🇪
   <strong>This is usually what im working with:</strong>
   </br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,nodejs,docker,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,nodejs,docker,cs&theme=dark" />
   </a>
 </div>
 
