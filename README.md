@@ -13,7 +13,7 @@ A software developer **based** in Sweden 🇸🇪
 
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="http://github-readme-stats-linus-jansson.vercel.app/api?username=linus-jansson&show_icons=true&theme=synthwave&count_private=true&hide_border=true" />
+  <img src="http://github-readme-stats-linus-jansson.vercel.app/api?username=linus-jansson&show_icons=true&theme=dark&count_private=true&hide_border=true" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=linus-jansson&color=brightgreen&style=for-the-badge&label=views)
